@@ -32,3 +32,7 @@ Completado el proceso anterior podrá trabajar con la librería hecha.
 
 # Archivos
 Se encontraran archivos los cuales son:
+-funcionesComplejos
+La libreria donde estan definidas las funciones a usar
+-Pruebas
+Donde se ejecutan automaticamente las pruebas
